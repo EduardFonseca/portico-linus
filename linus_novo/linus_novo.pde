@@ -7,6 +7,8 @@ void setup() {
   //::::::::::::::::::::::::::::::::::::::||carregar imagensque utilizadas no layout||::::::::::::::::::::::::::::::::::::::  
   wallpaper =loadImage("processing.png");
   TempoVolta_completo[NumVolta][equipe]="00:00:000";//armazenamento inicial de um tempo nulo para evitar erros
+  //teste github
+  
 }
 
 void draw() {
